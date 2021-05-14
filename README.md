@@ -1,3 +1,5 @@
+# NHOS_OhGodAnETHlargmentPill
+
 1.Copy ไฟล์ OhGodAnETHlargementPill และ Pill.sh วางใน folder /mnt/nhos
 
 2.สร้างfolder ใน /mnt/nhos/ ชื่อ scripts.sh (สคริปทั้งหมดที่อยู่ใน folder นี้จะ excute ทุกครั้งที่ boot) และย้าย Pill.sh ไปที่ /mnt/nhos/scripts.sh พิมพ์ตามนี้
